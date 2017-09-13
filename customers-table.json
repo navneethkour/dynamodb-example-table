@@ -16,6 +16,13 @@
         }, {
             "AttributeName": "Name",
             "AttributeType": "S"
+        }, {
+            "AttributeName": "Phone",
+            "AttributeType": "S"
+        },
+        {
+            "AttributeName": "Age",
+            "AttributeType": "N"
         }
     ],
     "ProvisionedThroughput": {
