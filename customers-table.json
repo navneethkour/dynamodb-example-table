@@ -7,6 +7,14 @@
         }, {
             "AttributeName": "Name",
             "KeyType": "RANGE"
+        },
+        {
+            "AttributeName": "Phone",
+            "AttributeType": "S"
+        },
+        {
+            "AttributeName": "Age",
+            "AttributeType": "N"
         }
     ],
     "AttributeDefinitions": [
